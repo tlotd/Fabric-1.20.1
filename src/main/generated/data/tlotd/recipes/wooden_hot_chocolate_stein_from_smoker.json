@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.5,
+  "ingredient": {
+    "item": "tlotd:hot_wooden_milk_stein"
+  },
+  "result": "tlotd:wooden_hot_chocolate_stein"
+}
