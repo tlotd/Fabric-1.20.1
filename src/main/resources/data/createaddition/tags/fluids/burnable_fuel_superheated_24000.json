@@ -1,9 +1,0 @@
-{
-  "replace": false,
-  "values": [
-    "createaddition:bioethanol",
-    "createaddition:flowing_bioethanol",
-    "tlotd:oil",
-    "tlotd:flowing_oil"
-  ]
-}
