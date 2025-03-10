@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "B": {
+      "tag": "minecraft:buttons"
+    },
+    "C": {
+      "item": "tlotd:circuit_board"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "R": {
+      "item": "tlotd:cathode_ray_tube"
+    },
+    "S": {
+      "item": "minecraft:smooth_quartz"
+    }
+  },
+  "pattern": [
+    "SCS",
+    "GRC",
+    "BCB"
+  ],
+  "result": {
+    "item": "tlotd:computer"
+  },
+  "show_notification": true
+}

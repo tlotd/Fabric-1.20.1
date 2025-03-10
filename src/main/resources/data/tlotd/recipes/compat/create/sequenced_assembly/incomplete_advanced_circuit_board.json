@@ -1,0 +1,41 @@
+{
+  "fabric:load_conditions": [
+    {
+      "condition": "fabric:all_mods_loaded",
+      "values": [
+        "create"
+      ]
+    }
+  ],
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "minecraft:black_dye"
+  },
+  "loops": 8,
+  "results": [
+    {
+      "item": "tlotd:advanced_circuit_board"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "tlotd:incomplete_advanced_circuit_board"
+        },
+        {
+          "item": "tlotd:circuit_board"
+        }
+      ],
+      "results": [
+        {
+          "item": "tlotd:incomplete_advanced_circuit_board"
+        }
+      ]
+    }
+  ],
+  "transitionalItem": {
+    "item": "tlotd:incomplete_advanced_circuit_board"
+  }
+}
