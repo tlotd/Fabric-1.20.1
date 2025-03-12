@@ -58,7 +58,7 @@
   "advancements.tlotd.alloy_allies": "Legierungs Liebhaber",
   "advancements.tlotd.alloy_allies.desc": "Erschaffe ein Heliorit- oder Enduriumbarren",
   "advancements.tlotd.next_level": "Next Level!",
-  "advancements.tlotd.next_level.desc": "Aquire a Palladium or Jurassoline Ingot",
+  "advancements.tlotd.next_level.desc": "Gelange an ein Palladium- oder Jurassolitbarren",
   "advancements.tlotd.rich_in_ingots": "Reich an Barren!",
   "advancements.tlotd.rich_in_ingots.desc": "Gelange an ein Zinnober- oder Nebularbarren",
   "advancements.tlotd.extraction": "Vorsichtige Ausgrabung",
@@ -119,10 +119,10 @@
   "item.tlotd.apple_juice_bottle": "Apfelsaftflasche",
   "item.tlotd.preserves_jar": "Einmachglas",
   "item.tlotd.toast": "Toast",
-  "item.tlotd.sweet_berry_jam": "Süßbeerenmarmelade",
-  "item.tlotd.glow_berry_jam": "Leuchtbeerenmarmelade",
-  "item.tlotd.sweet_berry_jam_toast": "Süßbeerenmarmeladentoast",
-  "item.tlotd.glow_berry_jam_toast": "Leuchtbeerenmarmeladentoast",
+  "item.tlotd.sweet_berry_jam": "Süßbeermarmelade",
+  "item.tlotd.glow_berry_jam": "Leuchtbeermarmelade",
+  "item.tlotd.sweet_berry_jam_toast": "Süßbeermarmeladentoast",
+  "item.tlotd.glow_berry_jam_toast": "Leuchtbeermarmeladentoast",
 
   "item.tlotd.strawberry_seeds": "Erdbeersamen",
   "item.tlotd.strawberry": "Erdbeere",
@@ -302,7 +302,7 @@
 
   "item.tlotd.heliorite_pickaxe_head": "Helioritspitzhackenkopf",
 
-  "item.tlotd.heliorite_upgrade_smithing_template.tooltip": "Heliorite Verbesserung",
+  "item.tlotd.heliorite_upgrade_smithing_template.tooltip": "Heliorit-Verbesserung",
   "item.tlotd.heliorite_upgrade_smithing_template.tooltip_1": "Netheritspitzhacke",
   "item.tlotd.heliorite_upgrade_smithing_template.tooltip_2": "Helioritspitzhackenkopf",
   "item.tlotd.heliorite_upgrade_smithing_template.tooltip_3": "Netheritspitzhacke hinzufügen",
@@ -326,7 +326,7 @@
 
   "item.tlotd.endurium_pickaxe_head": "Enduriumspitzhackenkopf",
 
-  "item.tlotd.endurium_upgrade_smithing_template.tooltip": "Endurium Verbesserung",
+  "item.tlotd.endurium_upgrade_smithing_template.tooltip": "Endurium-Verbesserung",
   "item.tlotd.endurium_upgrade_smithing_template.tooltip_1": "Netheritspitzhacke",
   "item.tlotd.endurium_upgrade_smithing_template.tooltip_2": "Enduriumspitzhackenkopf",
   "item.tlotd.endurium_upgrade_smithing_template.tooltip_3": "Netheritspitzhacke hinzufügen",
@@ -781,6 +781,7 @@
   "item.tlotd.dark_oak_bark": "Schwarzeichenrinde",
   "item.tlotd.mangrove_bark": "Mangrovenrinde",
   "item.tlotd.cherry_bark": "Kirschrinde",
+  "item.tlotd.pale_oak_bark": "Blasseichenrinde",
   "item.tlotd.ginkgo_bark": "Ginkgorinde",
 
   "item.tlotd.flour": "Mehl",
