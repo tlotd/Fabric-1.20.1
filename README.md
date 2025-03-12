@@ -17,7 +17,8 @@
 
 ## Supported Languages
 - 🇺🇸 [English](https://github.com/tlotd/Fabric-1.20.1/blob/main/src/main/resources/assets/tlotd/lang/en_us.json) [100%] - Translators: [@tlotd](https://github.com/tlotd)
-- 🇩🇪 [Deutsch](https://github.com/tlotd/Fabric-1.20.1/blob/main/src/main/resources/assets/tlotd/lang/de_de.json) [100%] - Translators: [@isla_nublar](https://github.com/Isla-Nublar)
+- 🇩🇪 [Deutsch](https://github.com/tlotd/Fabric-1.20.1/blob/main/src/main/resources/assets/tlotd/lang/de_de.json) [100%] - Translators: [@tlotd](https://github.com/tlotd)
+- 🇩🇪 [Schwäbisch](https://github.com/tlotd/Fabric-1.20.1/blob/main/src/main/resources/assets/tlotd/lang/sch_de.json) [100%] - Translators: [@isla_nublar](https://github.com/Isla-Nublar)
 
 ## Developer Notes
 The main focus currently is porting the entire project over to fabric, all new releases will be on fabric for now. No I dont hate Forge, however the entire Forge version was made in MCreator and I actually wanted make the mod properly, aditionally due to my aging pc, Fabric with optimization mods has been the only way lately for me to enjoy the game. Thank you to everybody who downloaded my mod, stay tuned a big realease is in the works!
